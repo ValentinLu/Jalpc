@@ -22,7 +22,12 @@ author:  # change following line to your infomation.
   email: valentin_lutz@web.de  # Leave blank if you don't have now
   cv: /static/assets/img/landing/ResumeValentinLutz.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  #place for icons
+    skill_icon1:
+    - name: 
+    - name: 
+  skill_icon2:
+    - name: 
+    - name: 
   desc:  # Describe yourself.
 
 # comment

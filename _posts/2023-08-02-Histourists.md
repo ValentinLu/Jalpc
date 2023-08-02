@@ -9,7 +9,7 @@ tags: [Book, quote]
 icon: icon-html
 ---
 
-> Digital Product School
+### Digital Product School:
 
 The last three months I participated as AI Engineer at the DPS a project by the UnternehmerTUM. In a successful collaboration with the Landeshauptstadt München, our international and crossfunctional team embarked on a mission to inspire the younger generation to appreciate and embrace the rich history and culture of Munich. Understanding the stories and traditions that have shaped our world is crucial, and history serves as a fascinating subject for exploration.
 

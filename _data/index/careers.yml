@@ -1,6 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Digital Product School
+    i18n: company_a
+  desc:
+    detail: At the DPS I worked in a cross-functional and international team to develop a digital product for the city of Munich. The learnings and tasks were: Agile Product Developmentnt, Design Thinking and Data Thinking, Lean Startup Approach, Proof of Concepts for Data-Driven Applications and Low & Hi-Fi Prototyping
+    detail: 05/2023 - 07/2023
+    i18n: company_a_date
+  job:
+    detail: AI Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+- name:
     detail: Marcapo GmbH
     i18n: company_a
   desc:

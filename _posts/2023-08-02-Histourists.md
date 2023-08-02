@@ -28,11 +28,10 @@ icon: icon-html
 <h3>Tools Used:</h3>
 <p>#Python, #AWS, #FastAI, #ChatGPT, #TTS, #SpringBoot, #Figma, #Miro</p>
 
-<p>At the conclusion of this blog post, I are excited to present:</p>
+<p>At the conclusion of this blog post, I am excited to present:</p>
 <video controls>
   <!-- Your video source URL goes here -->
-  <source src="[https://www.youtube.com/watch?v=0A0zUK4lGh4&t=2s]" type="video">
+  <source src="https://www.youtube.com/watch?v=0A0zUK4lGh4&t=2s" type="video/mp4">
   <!-- Provide alternative content if video is not supported -->
   Your browser does not support the video tag.
 </video>
-

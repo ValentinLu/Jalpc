@@ -31,7 +31,7 @@ icon: icon-html
 <p>At the conclusion of this blog post, I are excited to present:</p>
 <video controls>
   <!-- Your video source URL goes here -->
-  <source src="[https://drive.google.com/file/d/1tsRZil6CBUNKag1z-AonET8f6PLG-egJ/view?usp=share_link](https://www.youtube.com/watch?v=0A0zUK4lGh4&t=2s)" type="video">
+  <source src="[https://www.youtube.com/watch?v=0A0zUK4lGh4&t=2s]" type="video">
   <!-- Provide alternative content if video is not supported -->
   Your browser does not support the video tag.
 </video>

@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Jira, Confluence, MongoDB, Elasticsearch, MySQL, C, Python, HTML/CSS, Velocity Apache
-percentage: 70, 100, 100, 50, 90, 50, 70, 50, 60, 100
+aspects: GitHub, Jira, Confluence, NoSQL, MySQL, Python, Severless AI deployment, FastAPI, AI Models
+percentage: 70, 100, 100, 60, 80, 90, 90, 70, 75

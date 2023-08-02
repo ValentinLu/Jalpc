@@ -2,28 +2,31 @@
 # if you don't have language feature (language.yml is empty), ignore "i18n" items
 - name:
     detail: Digital Product School
-    i18n: company_a
+    i18n: company_d
   desc:
     detail: At the DPS I worked in a cross-functional and international team to develop a digital product for the city of Munich. The learnings and tasks were: Agile Product Development, Design Thinking and Data Thinking, Lean Startup Approach, Proof of Concepts for Data-Driven Applications and Low & Hi-Fi Prototyping
-    date: 05/2023 - 07/2023
-    i18n: company_a_date
+    i18n: company_d_desc
+  date: 05/2023 - 07/2023
+    i18n: company_d_date
   job:
     detail: AI Engineer
-    i18n: company_a_job
+    i18n: company_d_job
   icon: fa-plus-square
+  present: false
   
 - name:
     detail: Marcapo GmbH
-    i18n: company_a
+    i18n: company_c
   desc:
     detail: As a product owner, I was responsible for evaluating new technologies regarding current problems and for the successful development of new software.
-    i18n: company_a_desc
-    date: 03/2021 - 02/2022
-    i18n: company_a_date
+    i18n: company_c_desc
+  date: 03/2021 - 02/2022
+    i18n: company_c_date
   job:
     detail: Working student
-    i18n: company_a_job
+    i18n: company_c_job
   icon: fa-plus-square
+  present: false
 
 - name:
     detail: Rosenthal Assekuranz GmbH
@@ -38,17 +41,19 @@
     detail: Junior consultant for industrial insurance
     i18n: company_b_job
   icon: fa-plus-square
+  present: false
   
 - name:
     detail: Allianz AG
-    i18n: company_b
+    i18n: company_a
   desc:
     detail: Key account manager in the private and corporate insurance segment.
-    i18n: company_b_desc
+    i18n: company_a_desc
   date:
     detail: 07/2013 - 08/2015
-    i18n: company_b_date
+    i18n: company_a_date
   job:
     detail: Insurance agent
-    i18n: company_b_job
+    i18n: company_a_job
   icon: fa-plus-square
+  present: false

@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: valentin_lutz@web.de  # Leave blank if you don't have now
-  cv: https://drive.google.com/file/d/1Kzq8o1z8Zr8rtd-DRBU4CBP4KHtsErPa/view?usp=share_link  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://drive.google.com/file/d/1raJx7kjfo2-9F3pQ9EoMsIN7JqCdPIQs/view?usp=drive_link  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: 
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: 
     - name: 
-  desc: Hey! I´m Valentin. A movie-enthusiast, nature enjoying hiker, book lover, and Business Information Technology student graduating from the Universtiy of Bamberg in spring 2024. # Describe yourself.
+  desc: Hey! I´m Valentin. A movie-enthusiast, nature enjoying hiker, book lover, and Business Information Technology student graduated from the Universtiy of Bamberg. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
